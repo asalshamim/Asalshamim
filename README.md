@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 🙋, I'm Asal Shamim </h1>
 
-I’m currently working on my <a href="#" target="_blank">portfolio</a>. 
+- I’m currently working on my <a href="#" target="_blank">portfolio</a>. 
 
 ### Languages and Tools:
 <p align="left"> 
