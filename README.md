@@ -9,11 +9,15 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32px"> </h2>
 <p align="left"> 
+ 
+ 
 
+
+ <a href=https://www.figma.com/ > <img width ='32px' src ='https://img.icons8.com/color/72/figma.pn'> </a>
+<a href= https://github.com/asalshamim/Asalshamim> <img width ='32px' src ='https://img.icons8.com/color/72/html-5--v1.png'> </a>
  
  
- <a href="https://www.figma.com/"  target="_blank"> <img src="https://img.icons8.com/color/72/figma.png" alt="figma" width="32px" /> </a> 
-  <a href="https://github.com/asalshamim/Asalshamim" target="_blank"> <img src="https://img.icons8.com/color/72/html-5--v1.png" alt="html5" width="32px" /> </a>
+
   
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="32px" /> </a> 
  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="32px" /> </a> 
