@@ -1,3 +1,5 @@
+<h1 align="center">Hi 🙋, I'm Asal Shamim  </h1>
+
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 
@@ -24,5 +26,6 @@
  
  <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
  <a href = 'https://www.linkedin.com/in/asal-shamim-6a19891b6/'> <img width = '32px' align= 'center' src="https://img.icons8.com/ios-filled/72/linkedin.png"/></a> 
+ <a href = 'https://github.com/asalshamim'> <img width = '32px' align= 'center' src="https://img.icons8.com/dusk/2x/github.png"/></a> 
 
 
