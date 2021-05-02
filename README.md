@@ -1,16 +1,9 @@
-### Hi ![image](https://user-images.githubusercontent.com/41086746/116817428-8fa68180-ab66-11eb-880e-5a7635580590.png), I'm Asal Shamim
 
-<!--
-**asalshamim/Asalshamim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 🙋, I'm Asal Shamim </h1>
 
-Here are some ideas to get you started:
+I’m currently working on my <a href="#" target="_blank">portfolio</a>. 
 
-- 🔭 I’m currently working on my portfolio.
-- 🌱 Learning new things, self driven, hard working and friendly.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+<p align="left"> 
+ <a href="figma.com" target="_blank"> <img src="figma.svg" alt="figma" width="40" height="40"/> </a> 
+
