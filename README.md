@@ -13,8 +13,8 @@
  
 
 
- <a href=https://www.figma.com/ > <img width ='32px' src ='https://img.icons8.com/color/72/figma.pn'> </a>
-<a href= https://github.com/asalshamim/Asalshamim> <img width ='32px' src ='https://img.icons8.com/color/72/html-5--v1.png'> </a>
+ <a href="https://www.figma.com/"  target="_blank"> <img src="https://img.icons8.com/color/72/figma.png" alt="figma" width="32px" /> </a> 
+  <a href="https://github.com/asalshamim/Asalshamim" target="_blank"> <img src="https://img.icons8.com/color/72/html-5--v1.png" alt="html5" width="32px" /> </a>
  
  
 
