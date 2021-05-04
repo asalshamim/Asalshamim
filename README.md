@@ -4,19 +4,19 @@
 
 
 - 🔭 I’m currently working on my <a href="#" target="_blank">portfolio</a>. 
-- 🎓 I’m currently learning React, Flask.
+- 🎓 I’m currently learning Machine Learning.
 - 📚  Learning new things, self driven, hard working and friendly.
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32px"> </h2>
+<h2> Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32px"> </h2>
 <p align="left"> 
  
- 
- <code><img height="20" src="https://img.icons8.com/color/72/figma.png"></code>
-  <code><img height="20" src="https://img.icons8.com/color/72/html-5--v1.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
-      <code><img height="20" src="https://img.icons8.com/color/72/python.png"></code>
-        <code><img height="20" src="https://img.icons8.com/color/72/javascript.png"></code>
+ <code><img height="20" src="https://img.icons8.com/color/2x/visual-studio-code-2019.png"></code>
+  <code><img height="20" src="https://img.icons8.com/color/72/figma.png"></code>
+    <code><img height="20" src="https://img.icons8.com/color/72/html-5--v1.png"></code>
+      <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
+          <code><img height="20" src="https://img.icons8.com/color/72/python.png"></code>
+            <code><img height="20" src="https://img.icons8.com/color/72/javascript.png"></code>
   
 
     
