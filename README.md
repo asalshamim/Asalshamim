@@ -5,7 +5,8 @@
 
 - 🔭 I’m currently working on my <a href="#" target="_blank">portfolio</a>. 
 - 🎓 I’m currently learning Machine Learning.
-- 📚  Learning new things, self driven, hard working and friendly.
+- 📚 Learning new things, self driven, hard working and friendly.
+- 📝 Click<a href="" target="_blank"> here </a> to view my CV
 
 <h2> Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32px"> </h2>
 <p align="left"> 
