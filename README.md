@@ -59,9 +59,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="img/typescript.png" width="48" height="48" alt="Typescript" />
       </a>
-      <br>Bootstrap
+      <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
