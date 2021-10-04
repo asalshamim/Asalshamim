@@ -3,7 +3,7 @@
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 
-- 🔭 I’m currently working on my <a href="#" target="_blank">portfolio</a>. 
+- 🔭  I'm a front end developer.
 - 🎓 I’m currently learning Machine Learning.
 - 📚 Learning new things, self driven, hard working and friendly.
 - 📝 Click<a href="#" target="_blank"> here </a> to view my CV
