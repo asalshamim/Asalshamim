@@ -16,9 +16,10 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+      <a href="#">
+        <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="48" height="48" alt="HTML" />
       </a>
+      
       <br>C#&nbsp;(Core)
     </td>
     <td align="center" width="96">
