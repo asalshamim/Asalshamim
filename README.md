@@ -58,10 +58,16 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#">
         <img src="img/typescript.png" width="48" height="48" alt="Typescript" />
       </a>
       <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="img/nodejs.png" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Node.js
     </td>
    
   </tr>
