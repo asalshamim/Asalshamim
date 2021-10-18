@@ -51,6 +51,7 @@
       </a>
       <br>Sass
     </td>
+    <!--
     <td align="center" width="96">
       <a href="#" >
         <img src="img/react.png" width="48" height="48" alt="React" />
@@ -74,7 +75,7 @@
         <img src="img/mongodb.png" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
-    </td>
+    </td> --!>
    
   </tr>
 </table>
