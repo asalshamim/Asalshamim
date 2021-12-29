@@ -22,12 +22,6 @@
       <br>HTML
     </td>
     <td align="center" width="96">
-      <a href="">
-        <img src="img/python.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
       <a href="#">
         <img src="img/css.png" width="48" height="48" alt="CSS" />
       </a>
@@ -75,6 +69,12 @@
       </a>
       <br>MongoDB
     </td> 
+    <td align="center" width="96">
+      <a href="">
+        <img src="img/python.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
    
   </tr>
 </table>
