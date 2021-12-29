@@ -51,8 +51,7 @@
       </a>
       <br>Sass
     </td>
-    
-    <td align="center" width="96">
+  <td align="center" width="96">
       <a href="#" >
         <img src="img/react.png" width="48" height="48" alt="React" />
       </a>
