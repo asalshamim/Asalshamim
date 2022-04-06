@@ -1,13 +1,11 @@
 <h1 align="center">Hi 🙋, I'm Asal Shamim  </h1>
 
-
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 - 📝 All about me is at <a href="#" target="_blank"> My Website </a>
-- 🔭  I'm a front end developer.
+- 🔭 I'm a front end developer.
 - 🎓 I’m currently learning Machine Learning.
 - 📚 Learning new things, self driven, hard working and friendly.
-
 
 <h2> Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32px"> </h2>
 <p align="left"> 
@@ -45,7 +43,7 @@
       </a>
       <br>Sass
     </td>
- <!-- <td align="center" width="96">
+  <td align="center" width="96">
       <a href="#" >
         <img src="img/react.png" width="48" height="48" alt="React" />
       </a>
@@ -75,21 +73,11 @@
       </a>
       <br>Python
     </td>
-   -->
+   
   </tr>
 </table>
-
-
-
-
-
-
-
 
  <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
  <a href = 'https://www.linkedin.com/in/asal-s-6a19891b6/'> <img width = '32px' align= 'center' src="https://img.icons8.com/ios-filled/72/linkedin.png"/></a> 
  <a href = 'https://github.com/asalshamim'> <img width = '32px' align= 'center' src="https://img.icons8.com/dusk/2x/github.png"/></a> 
- <a href = 'https://codepen.io/Asalsh'> <img width = '32px' align= 'center' src="https://img.icons8.com/ios-filled/50/000000/codepen.png"/></a> 
- 
-
-
+ <a href = 'https://codepen.io/Asalsh'> <img width = '32px' align= 'center' src="https://img.icons8.com/ios-filled/50/000000/codepen.png"/></a>
