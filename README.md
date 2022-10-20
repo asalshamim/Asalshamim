@@ -65,13 +65,7 @@
       </a>
       <br>Next.js
     </td>
-    <br><br>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="img/mongodb.png" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
+    
 
     
      
@@ -79,6 +73,14 @@
   
    
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="img/mongodb.png" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    </tr>
 </table>
 
  <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
