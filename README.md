@@ -59,13 +59,14 @@
       </a>
       <br>Node.js
     </td>
-    
-     <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#">
-        <img src="img/javascript.png" width="48" height="48" alt="Next.js" />
+        <img src="img/nextjs.png" width="48" height="48" alt="Next.js" />
       </a>
       <br>Next.js
     </td>
+    
+     
     
   
    
