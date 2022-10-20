@@ -80,6 +80,12 @@
       </a>
       <br>MongoDB
     </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="img/firebase.png" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
     </tr>
 </table>
 
