@@ -60,6 +60,13 @@
       <br>Node.js
     </td>
     
+     <td align="center" width="96">
+      <a href="#">
+        <img src="img/javascript.png" width="48" height="48" alt="Next.js" />
+      </a>
+      <br>Next.js
+    </td>
+    
   
    
   </tr>
