@@ -89,7 +89,4 @@
     </tr>
 </table>
 
- <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
- <a href = 'https://www.linkedin.com/in/asal-s-6a19891b6/'> <img width = '32px' align= 'center' src="https://img.icons8.com/ios-filled/72/linkedin.png"/></a> 
- <a href = 'https://github.com/asalshamim'> <img width = '32px' align= 'center' src="https://img.icons8.com/dusk/2x/github.png"/></a> 
- <a href = 'https://codepen.io/Asalsh'> <img width = '32px' align= 'center' src="https://img.icons8.com/ios-filled/50/000000/codepen.png"/></a>
+
